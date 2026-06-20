@@ -1,0 +1,11 @@
+metric,value
+total_revenue,1922467.82
+total_orders,16754
+total_customers,6794
+repeat_purchase_rate_pct,68.1
+churn_rate_pct_90d,76.8
+overall_aov,114.75
+latest_month,2024-12-01
+latest_month_revenue,86192.39
+latest_month_mom_growth_pct,12.7
+latest_month_active_customers,694
